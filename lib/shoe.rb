@@ -14,5 +14,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  Shoe::BRANDS.size = 3
+  Shoe::BRANDS.length = 3
 end
