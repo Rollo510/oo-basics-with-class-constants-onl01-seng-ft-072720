@@ -14,5 +14,5 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  Shoe::BRANDS = 3
+  
 end
