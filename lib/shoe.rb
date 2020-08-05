@@ -14,6 +14,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end
   
-  @@BRANDS.size = 3
+  BRANDS.size = 3
   
 end
